@@ -1,7 +1,7 @@
 ﻿using Application.Services.FindeksService;
 using Application.Services.ImageService;
 using Application.Services.POSService;
-using Infrastructure.Adapters.FakeFindeksService;
+using Infrastructure.Adapters.FakeFindeks;
 using Infrastructure.Adapters.FakePOSService;
 using Infrastructure.Adapters.ImageService;
 using Microsoft.Extensions.DependencyInjection;
